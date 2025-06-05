@@ -1,0 +1,1 @@
+<?php echo $__env->make("Layout::app", array_diff_key(get_defined_vars(), ['__data' => 1, '__path' => 1]))->render(); ?><?php /**PATH /home/branislav/Downloads/codecanyon-pKneJWdu-booking-core-ultimate-booking-system/booking-core.3.6.2/Bookingcore.3.6.2/resources/views/layouts/app.blade.php ENDPATH**/ ?>

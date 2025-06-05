@@ -1,0 +1,8 @@
+[2025-06-04 17:38:39] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "brane.panic93@gmail.com  has created hotel test hotel",
+    "avatar": "<img class=\"image-responsive\" src=\"http:\/\/127.0.0.1:8000\/images\/avatar.png\" alt=\"brane.panic93@gmail.com \">",
+    "link": "http:\/\/127.0.0.1:8000\/admin\/module\/hotel\/edit\/12",
+    "idNotification": "5f733bee-ee39-4bd7-b4cd-ed02d5444270",
+    "socket": null
+}  
